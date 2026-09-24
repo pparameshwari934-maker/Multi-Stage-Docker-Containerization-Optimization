@@ -1,0 +1,29 @@
+cloud-infrastructure-capstone/
+│
+├── README.md
+│
+├── app/
+│   ├── package.json
+│   ├── server.js
+│   └── ...
+│
+├── Dockerfile
+├── docker-compose.yml
+├── .dockerignore
+├── .env.example
+│
+├── monitoring/
+│   ├── prometheus.yml
+│   └── alerts.yml
+│
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+│
+├── scripts/
+│   ├── deploy.sh
+│   └── health-check.sh
+│
+└── docs/
+    ├── architecture.png
+    └── deployment.md
