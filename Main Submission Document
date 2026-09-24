@@ -1,0 +1,49 @@
+# Cloud Infrastructure Deployment & Monitoring Capstone
+
+## 1. Project Overview
+Brief description of the application and cloud deployment.
+
+## 2. Technology Stack
+- Docker
+- Docker Compose
+- AWS EC2
+- PostgreSQL
+- GitHub Actions
+- Prometheus
+- Grafana
+
+## 3. Architecture
+[Add architecture diagram]
+
+## 4. Deployment
+Explain how the application is deployed to the cloud.
+
+## 5. Environment Configuration
+Environment variables are configured using .env / GitHub Secrets.
+
+## 6. Health Checks
+Explain application and container health checks.
+
+## 7. Monitoring & Alerts
+Explain uptime monitoring, resource monitoring and health alerts.
+
+## 8. CI/CD Pipeline
+GitHub → Build → Test → Docker Image → Deploy to Cloud
+
+## 9. Live Application
+https://YOUR-CLOUD-APPLICATION-URL
+
+## 10. Repository
+https://github.com/YOUR-USERNAME/cloud-infrastructure-capstone
+
+## 11. Testing
+- Container health check: PASS
+- Application endpoint: PASS
+- Database connection: PASS
+- Container restart: PASS
+- Volume persistence: PASS
+
+## 12. Conclusion
+The containerized application was successfully deployed to
+cloud infrastructure with automated configuration, health
+monitoring and deployment.
